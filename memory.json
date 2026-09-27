@@ -1,0 +1,12 @@
+{
+    "travel_style": "solo",
+    "interests": [
+        "cars",
+        "history"
+    ],
+    "food_preferences": "local food",
+    "budget_preference": "",
+    "dislikes": [
+        "crowded places"
+    ]
+}
